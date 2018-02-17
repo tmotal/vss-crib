@@ -1,0 +1,26 @@
+{
+  "name": "vss-crib",
+  "version": "1.0.0",
+  "description": "Little helper supporting lazy receivers in learning their routes nice and easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmotal/vss-crib.git"
+  },
+  "keywords": [
+    "football",
+    "crib",
+    "learning",
+    "javascript",
+    "tmotal"
+  ],
+  "author": "tmotal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmotal/vss-crib/issues"
+  },
+  "homepage": "https://github.com/tmotal/vss-crib#readme"
+}
